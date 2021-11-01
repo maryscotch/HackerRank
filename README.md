@@ -14,7 +14,7 @@ Still in progress.
 |[Beautiful Triplets](https://www.hackerrank.com/challenges/beautiful-triplets/problem)|Easy|[solution](https://github.com/maryscotch/HackerRank/blob/main/JavaScript/BeautifulTriplets.js)|
 |[Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem)|Easy|[solution](https://github.com/maryscotch/HackerRank/blob/main/JavaScript/BetweenTwoSets.js)|
 |[Bill Division](https://www.hackerrank.com/challenges/bon-appetit/problem)|Easy|[solution](https://github.com/maryscotch/HackerRank/blob/main/JavaScript/BillDivision.js)|
-|[Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)|Easy|[solution](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)|
+|[Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)|Easy|[solution](https://github.com/maryscotch/HackerRank/blob/main/JavaScript/BirthdayCakeCandles.js)|
 |[Breaking The Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)|Easy|[solution](https://github.com/maryscotch/HackerRank/blob/main/JavaScript/BreakingTheRecords.js)|
 |[Cats And A Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem)|Easy|[solution](https://github.com/maryscotch/HackerRank/blob/main/JavaScript/CatsAndAMouse.js)|
 |[Cavity Map](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem)|Easy|[solution](https://github.com/maryscotch/HackerRank/blob/main/JavaScript/CavityMap.js)|
@@ -30,6 +30,7 @@ Still in progress.
 |[Find Digits](https://www.hackerrank.com/challenges/find-digits/problem)|Easy|[solution](https://github.com/maryscotch/HackerRank/blob/main/JavaScript/FindDigits.js)|
 |[Grading Students](https://www.hackerrank.com/challenges/grading/problem)|Easy|[solution](https://github.com/maryscotch/HackerRank/blob/main/JavaScript/GradingStudents.js)|
 |[Halloween Sale](https://www.hackerrank.com/challenges/halloween-sale/problem)|Easy|[solution](https://github.com/maryscotch/HackerRank/blob/main/JavaScript/HalloweenSale.js)|
+|[Happy LadyBugs](https://www.hackerrank.com/challenges/happy-ladybugs/problem)|Easy|[solution](https://github.com/maryscotch/HackerRank/blob/main/JavaScript/happyLadyBugs.js)|
 |[Jumping On The Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem)|Easy|[solution](https://github.com/maryscotch/HackerRank/blob/main/JavaScript/JumpingOnTheClouds.js)|
 |[Library Fine](https://www.hackerrank.com/challenges/library-fine/problem)|Easy|[solution](https://github.com/maryscotch/HackerRank/blob/main/JavaScript/LibraryFine.js)|
 |[Mini Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)|Easy|[solution](https://github.com/maryscotch/HackerRank/blob/main/JavaScript/MiniMaxSum.js)|
@@ -44,9 +45,11 @@ Still in progress.
 |[Sherlock And Squares](https://www.hackerrank.com/challenges/sherlock-and-squares/problem)|Easy|[solution](https://github.com/maryscotch/HackerRank/blob/main/JavaScript/SherlockAndSquares.js)|
 |[Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem)|Easy|[solution](https://github.com/maryscotch/HackerRank/blob/main/JavaScript/SimpleArraySum.js)|
 |[Staircase](https://www.hackerrank.com/challenges/staircase/problem)|Easy|[solution](https://github.com/maryscotch/HackerRank/blob/main/JavaScript/Staircase.js)|
+|[The Grid Search](https://www.hackerrank.com/challenges/the-grid-search/problem)|Medium|[solution](https://github.com/maryscotch/HackerRank/blob/main/JavaScript/TheGridSearch.js)|
 |[The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem)|Easy|[solution](https://github.com/maryscotch/HackerRank/blob/main/JavaScript/TheHurdleRace.js)|
 |[The Time In Words](https://www.hackerrank.com/challenges/the-time-in-words/problem)|Medium|[solution](https://github.com/maryscotch/HackerRank/blob/main/JavaScript/TheTimeInWords.js)|
 |[Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem)|Easy|[solution](https://github.com/maryscotch/HackerRank/blob/main/JavaScript/TimeConversion.js)|
 |[Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem)|Easy|[solution](https://github.com/maryscotch/HackerRank/blob/main/JavaScript/UtopianTree.js)|
+|[3D Surface Area](https://www.hackerrank.com/challenges/3d-surface-area/problem)|Medium|[solution](https://github.com/maryscotch/HackerRank/blob/main/JavaScript/3dSurfaceArea.js)|
 
 
